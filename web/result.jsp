@@ -56,7 +56,6 @@
                 <img src="/images/html.jpg" alt="HTML"/>
                 <img src="/images/css.jpg" alt="CSS"/>
                 <img src="/images/servlets.jpg" alt="JAVA SERVLETS"/>
-                <img src="/images/js.png" alt="JAVASCRIPT"/>
                 <img src="/images/mvc.png" alt="MVC"/>
 
             </div>
